@@ -6,8 +6,9 @@ def send_email(message):
     port = 465
 
     #username = gmail
+    #password -- gmail created password
     username = "X"
-    password = "gvpn jxut ilap nsye"
+    password = "X"
 
     #receiver = gmail
     receiver = "X"
