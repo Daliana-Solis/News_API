@@ -1,4 +1,4 @@
-import smtplib, ssl  #email library
+import smtplib, ssl  #email
 
 def send_email(message):
     #gmail accounts
