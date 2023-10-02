@@ -4,7 +4,7 @@ from send_email import send_email
 topic = "tesla"
 
 #get API key from newsapi.org
-api_key = "a89c2640956b432db3113b5ff5697abb"
+api_key = "API KEY HERE"
 
 #get news from this api ()
 url = "https://newsapi.org/v2/everything?"\
